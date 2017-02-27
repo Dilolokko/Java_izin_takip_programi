@@ -60,16 +60,16 @@ public class anaform extends javax.swing.JFrame {
         });
 
         jLabel1.setFont(new java.awt.Font("Calibri", 1, 24)); // NOI18N
-        jLabel1.setText("Ali SAYAR                           1311012048");
+        jLabel1.setText("Ali VARAN                           ");
 
         jLabel2.setFont(new java.awt.Font("Calibri", 1, 24)); // NOI18N
-        jLabel2.setText("Mahmut YETİŞİR              1311012072");
+        jLabel2.setText("Mahmut KELOĞLU              ");
 
         jLabel3.setFont(new java.awt.Font("Calibri", 1, 24)); // NOI18N
         jLabel3.setText("Veri Tabanı Ödevi");
 
         jLabel4.setFont(new java.awt.Font("Calibri", 1, 24)); // NOI18N
-        jLabel4.setText("Büşra PALA                         1411012017");
+        jLabel4.setText("Salih KOŞAN                         ");
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
         getContentPane().setLayout(layout);
